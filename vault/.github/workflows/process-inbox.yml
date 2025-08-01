@@ -1,0 +1,32 @@
+name: Process Inbox Notes
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # 30分ごとに実行（任意調整）
+  workflow_dispatch:
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Vault
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Note Processor
+        run: node vault/scripts/generateNote.js
+
+      - name: Commit processed notes
+        run: |
+          git config user.name "nori-bot"
+          git config user.email "nori@example.com"
+          git add .
+          git commit -m "Processed inbox notes"
+          git push

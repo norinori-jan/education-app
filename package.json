@@ -1,0 +1,28 @@
+{
+  "name": "education-app",
+  "version": "1.0.0",
+  "description": "このリポジトリは、宅建・マンション管理士・管理業務主任者など複数の資格試験に対応した、Obsidianベースの学習ノートテンプレート＆教材管理システムです。",
+  "main": "generatenote.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norinori-jan/education-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/norinori-jan/education-app/issues"
+  },
+  "homepage": "https://github.com/norinori-jan/education-app#readme",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "fs-extra": "^11.3.0"
+  }
+}
