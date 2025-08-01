@@ -1,0 +1,22 @@
+name: Generate Note
+
+on:
+  workflow_dispatch:  # GitHubから手動実行
+
+jobs:
+  run-note-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run generateNote.js
+        run: node scripts/generateNote.js daily memo 自動ノート
