@@ -1,0 +1,422 @@
+{
+  "main": {
+    "id": "5e4c4c6f15a652e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "beab460460c815a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "665774b4f2563ebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9ac3dbb8fd670fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setup/メタ設計ガイド.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "メタ設計ガイド"
+            }
+          },
+          {
+            "id": "678ea67b3972dc64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta/tag-rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tag-rules"
+            }
+          },
+          {
+            "id": "651f054890f8d5da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai-extracted.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ai-extracted"
+            }
+          },
+          {
+            "id": "d2cf24c79034d2e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "copilot/会話ログ保存用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "会話ログ保存用"
+            }
+          },
+          {
+            "id": "21339439b24c8c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "copilot/会話ログ保存用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "会話ログ保存用"
+            }
+          },
+          {
+            "id": "f218339f3e45ff2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setup/📝 python-venv.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📝 python-venv"
+            }
+          },
+          {
+            "id": "49ca338bb5b13ff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
+            }
+          },
+          {
+            "id": "78aca9fcd0f2d502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 5"
+            }
+          },
+          {
+            "id": "33ea08fb94b1d62f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "copilot/AIフォルダの構造.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIフォルダの構造"
+            }
+          },
+          {
+            "id": "6baa404e47648a34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/meta-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "meta-template"
+            }
+          },
+          {
+            "id": "1591ed74a28a8e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 6"
+            }
+          },
+          {
+            "id": "2798068704667c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/meta-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "meta-template"
+            }
+          },
+          {
+            "id": "68803019a3e440b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/templates/meta-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "meta-template"
+            }
+          },
+          {
+            "id": "8a2dac513e6d066b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/templates/meta-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "meta-template"
+            }
+          },
+          {
+            "id": "695475bd545babb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "copilot/githubアップロード.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "githubアップロード"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5701099c1f981ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c60e064c28d92b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45ac8c7b5c1fa2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b48caf921d36c833",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b4ee6e2e885fa03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e7fe12ce4fda498",
+    "type": "split",
+    "children": [
+      {
+        "id": "a402826932fd6960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "597c96a088b30988",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "copilot/githubアップロード.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for githubアップロード"
+            }
+          },
+          {
+            "id": "0cd14e03586be960",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "copilot/githubアップロード.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from githubアップロード"
+            }
+          },
+          {
+            "id": "e6d3556c5e33f2bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "da68fa58264e0ce7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "copilot/githubアップロード.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of githubアップロード"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "695475bd545babb0",
+  "lastOpenFiles": [
+    "AI/templates/ai-extract-template.md",
+    "copilot/githubアップロード.md",
+    "AI/templates/meta-template.md",
+    "copilot/テンプレートの使い方.md",
+    "Untitled/meta-template.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "copilot/AIフォルダの構造.md",
+    "Untitled 5.md",
+    "AI/templates",
+    "AI/genma-drafts",
+    "AI/chatgpt-drafts",
+    "AI/copilot-drafts",
+    "Untitled 4",
+    "Untitled 3",
+    "Untitled 2",
+    "Untitled 4.md",
+    "Untitled 1",
+    "setup/📝 python-venv.md",
+    "Untitled",
+    "AI",
+    "setup/メタ設計ガイド.md",
+    "copilot/会話ログ保存用.md",
+    "copilot/AI連携について.md",
+    "cli-tag-design.md.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "ai-extracted.md",
+    "meta/tag-rules.md",
+    "meta/タグルール.md",
+    "templates/テンプレート.md",
+    "templates/draft-templated.md.md",
+    "Untitled 1.md",
+    "テンプレート.md",
+    "Vault/setup/python-venv.md",
+    "Untitled.md"
+  ]
+}
